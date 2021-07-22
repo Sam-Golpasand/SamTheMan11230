@@ -12,6 +12,15 @@
 
 Hello, my name is Sam and I'm a 15 year old up-incoming bot developer. I am quite new to this stuff but hopefully I can release some cool products soon!
 
+### Some Highlights:
+
+- 📌 
+- 🚀 
+- 🏫 
+- 🌀 
+- 👓 
+- 💻 
+
 <img align="right" height="215" width="325" alt="" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif" />
 
 ### Languages and Tools:
