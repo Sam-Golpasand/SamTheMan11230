@@ -10,19 +10,19 @@
 
 ### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=SamTheMan11230&label=Views&color=blue&style=plastic) 
 
-Hello, my name is Sam and I'm a 15 year old up-incoming bot developer. I am quite new to this stuff but hopefully I can release some cool products soon!
+Hello, my name is Sam and I'm a 15 year old up-incoming bot developer. I am quite new to this stuff but hopefully I can release some cool products soon! 
+
+<img align="right" height="215" width="325" alt="" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif" />
 
 ### Some Highlights:
 
-- 📌 
+- 📌 [node-buddy](https://www.npmjs.com/package/node-buddy)
 - 🚀 
 - 🏫 
 - 🌀 
 - 👓 
 - 💻 
-
-<img align="right" height="215" width="325" alt="" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif" />
-
+- 
 ### Languages and Tools:
 
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
